@@ -174,3 +174,13 @@ h4 {
 .ckcw a {
     color: black;
 }
+
+.hometown, p {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.hometown1 {
+    padding-top: 10px;
+}
