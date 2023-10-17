@@ -26,3 +26,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 13. I added more margin-top to the 'Lately' paragraph. I wanted more white space. 
 14. I added a boarder to my education paragraph, made it solid and colored it royalblue.
 15. I changed the logo from black to royalblue.
+16. under .main-section h1, .main-section h2, I aligned the text. 
